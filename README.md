@@ -6,7 +6,7 @@ This is a work-in-progress __voice assistant__ (named ___Axel A.___) built with 
 The voice assistant is activated through the wake word ___hallo___, and is currently capable of performing the following tasks:
 
 1. __Read__ first paragraph of __wikipedia__ search results (User: _"suche Berlin auf Wikipedia"_),
-2. state __weather information__: (User: _"Wie ist das Wetter?"_ Axel A.: _"nenne den Namen der Satdt"_),
+2. state __weather information__: (User: _"Wie ist das Wetter?"_ Axel A.: _"nenne den Namen der Stadt"_),
 3. __answer mathematical or geographical questions__ through the Wolfram Alpha API (User: _"Ich habe eine Frage"_ Axel A.: _"stelle deine Frage. Ich kann mathematische und geografische Fragen beantworten."_),
 4. state the __current time__ (User: _"Wie spät ist es/ Nenne die Uhrzeit/ Wieviel Uhr?"_),
 5. tells __random facts__ (User: _"Sag mir einen Fakt/ Erzähl etwas"_),
