@@ -1,5 +1,5 @@
-# german voice_assistant
-This is a work-in-progress voice assistant (named "Axel A.") built with Python.
+# German Voice Assistant
+This is a work-in-progress __voice assistant__ (named ___Axel A.___) built with Python.
 
 ### Capabilities
 
