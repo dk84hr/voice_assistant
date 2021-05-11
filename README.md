@@ -26,18 +26,18 @@ The voice assistant is activated through the wake word ___hallo___, and is curre
 
 - in the terminal, set up a virtual environment:
 create:
-		python3 -m venv venv
+```python3 -m venv venv```
 activate:
-    source venv/bin/activate
+```source venv/bin/activate```
 
 - Install dependencies:
-		pip install -r requirements.txt
+```pip install -r requirements.txt```
     
 - Run main.py
-		python main.py
+```python main.py```
     
 - wait for Axel A. to boot
-![Bildschirmfoto 2021-05-11 um 13 38 40](https://user-images.githubusercontent.com/71432794/117809428-73899b00-b25e-11eb-975b-ef58f0a405f5.png)
+![image](https://user-images.githubusercontent.com/71432794/117809679-bfd4db00-b25e-11eb-9577-d9dadfa9b661.png)
 
 ### Libraries used
 
