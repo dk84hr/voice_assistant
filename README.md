@@ -20,6 +20,25 @@ The voice assistant is activated through the wake word ___hallo___, and is curre
 13. __pauses listening__ for a given time (User: _"Pause/hör nicht zu"_ Axel A: _"wie viele Sekunden soll ich nicht zuhören?"_),
 14. and responds to questions such as _who are you?_ (_"wer bist du?"_), _what are you capable of?_ (_"was kannst du?"_), _how are you?_ (_"wie geht's dir?"_), _are you a spy?_ (_"bist du ein Spion?"_), and _who made you?_ (_"wer hat dich gemacht?"_).
 
+### Usage
+
+- Create a folder (e.g. 'voice_assistant') on your computer. Open it in VSCode.
+
+- in the terminal, set up a virtual environment:
+create:
+		python3 -m venv venv
+activate:
+    source venv/bin/activate
+
+- Install dependencies:
+		pip install -r requirements.txt
+    
+- Run main.py
+		python main.py
+    
+- wait for Axel A. to boot
+![Bildschirmfoto 2021-05-11 um 13 38 40](https://user-images.githubusercontent.com/71432794/117809428-73899b00-b25e-11eb-975b-ef58f0a405f5.png)
+
 ### Libraries used
 
 1. speech_recognition
@@ -41,9 +60,6 @@ The voice assistant is activated through the wake word ___hallo___, and is curre
 
 1. Open Weather Map
 2. WolframAlpha
-
-_It is recommended to run this in a virtual environnment._
-
 
 ### Sources/ links
 
