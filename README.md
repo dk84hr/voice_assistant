@@ -37,6 +37,7 @@ activate:
 ```python main.py```
     
 - wait for Axel A. to boot
+
 ![image](https://user-images.githubusercontent.com/71432794/117809679-bfd4db00-b25e-11eb-9577-d9dadfa9b661.png)
 
 ### Libraries used
